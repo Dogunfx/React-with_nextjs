@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
+
+.centerDiv {
+    box-shadow: 1px 1px 10px silver;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    margin-top: 300px;
+    border-radius: 4px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.myHeading {
+    color: indigo;
+}
+
+.myText {
+    display: block;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 15px;
+    padding: 12px;
+    border-radius: 3em;
+}
+
+.myButton {
+    background-color: indigo;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    cursor: pointer;
+
+}
